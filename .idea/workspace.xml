@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Hadoopdemo:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c51bfefd-4c46-4484-86d7-7a806661d94c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Tag Library Descriptor" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\file\学习\term-7\大数据\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SMCjJuYVcT9b7vv04O7WIpHI5z" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tay.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\webapp\js" />
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\webapp\images" />
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\webapp\WEB-INF" />
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\webapp\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\webapp" />
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\webapp\images" />
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\java\com\tay\tools" />
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\java\com\tay\services" />
+      <recent name="D:\file\学习\term-7\java-web-code\Hadoopdemo\src\main\java\com\tay\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test" />
+      <module name="Hadoopdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoopdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tay.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tay.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.tay.dao.HibernateDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateDemo.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoopdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tay.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tay.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.tay.dao.HibernateDemo" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateDemo.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoopdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tay.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tay.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.tay.dao.HibernateDemo" />
+      <option name="METHOD_NAME" value="find" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateDemo.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoopdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tay.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tay.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.tay.dao.HibernateDemo" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Hadoopdemo_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Hadoopdemo:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Hadoopdemo_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Hadoopdemo" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3437" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Hadoopdemo:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="JUnit.HibernateDemo.demo1" />
+      <item itemvalue="JUnit.HibernateDemo" />
+      <item itemvalue="JUnit.HibernateDemo.find" />
+      <item itemvalue="JUnit.HibernateDemo.save" />
+      <item itemvalue="Tomcat Server.Tomcat 8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HibernateDemo.find" />
+        <item itemvalue="JUnit.HibernateDemo.save" />
+        <item itemvalue="JUnit.HibernateDemo" />
+        <item itemvalue="JUnit.HibernateDemo.demo1" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c51bfefd-4c46-4484-86d7-7a806661d94c" name="Default Changelist" comment="" />
+      <created>1571364211423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571364211423</updated>
+      <workItem from="1571364215372" duration="2867000" />
+      <workItem from="1571378667567" duration="7678000" />
+      <workItem from="1571396272362" duration="13643000" />
+      <workItem from="1571412236807" duration="315000" />
+      <workItem from="1571447063726" duration="26876000" />
+      <workItem from="1571532173561" duration="13209000" />
+      <workItem from="1571560941859" duration="2316000" />
+      <workItem from="1571616120563" duration="11630000" />
+      <workItem from="1571638910368" duration="410000" />
+      <workItem from="1571639347191" duration="5122000" />
+      <workItem from="1571648680259" duration="3697000" />
+      <workItem from="1571657364829" duration="5416000" />
+      <workItem from="1571674983255" duration="1069000" />
+      <workItem from="1571702596799" duration="12446000" />
+      <workItem from="1571789917840" duration="1918000" />
+      <workItem from="1571877255279" duration="12188000" />
+      <workItem from="1571922894310" duration="2020000" />
+      <workItem from="1571962409495" duration="1752000" />
+      <workItem from="1571983200994" duration="1350000" />
+      <workItem from="1571985051751" duration="67000" />
+      <workItem from="1571990003580" duration="1399000" />
+      <workItem from="1572222437373" duration="18000" />
+      <workItem from="1572889669309" duration="1100000" />
+      <workItem from="1573018742542" duration="86000" />
+      <workItem from="1573020384293" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

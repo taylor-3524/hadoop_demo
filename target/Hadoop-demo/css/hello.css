@@ -1,0 +1,27 @@
+table,table tr th,table tr td{
+    border: 1px solid #096;
+}
+table{
+    margin: 20px auto;
+    color: white;
+}
+body{
+    background-size:100% 100%;
+    -moz-background-size:100% 100%; /* 老版本的 Firefox */
+    background: url('../images/bg.jpg') ;
+}
+.op{
+    margin: auto 510px;
+}
+.op input{
+    width: 400px;
+    height: 30px;
+    line-height: 25px;
+}
+#del_button{
+    color: red;
+}
+.button{
+    border-radius: 5px;
+    border: 1px black solid;
+}

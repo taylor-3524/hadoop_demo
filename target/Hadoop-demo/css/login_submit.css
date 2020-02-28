@@ -1,0 +1,20 @@
+.pass-button-submit {
+    width: 500px;
+    height: 50px;
+    background: #09aaff;
+    border-radius: 4px;
+    transition: .3s;
+    font-size: 16px;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: Microsoft YaHei, SimHei, Tahoma;
+    font-weight: 100
+}
+
+.pass-button-submit:hover {
+    filter: alpha(opacity=80);
+    -moz-opacity: .8;
+    opacity: .8
+}
